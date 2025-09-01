@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     # new apps
     "core",
     "users",
+    "contests",
 ]
 
 MIDDLEWARE = [
